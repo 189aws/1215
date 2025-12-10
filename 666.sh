@@ -12,7 +12,7 @@ echo "========== apoolminer 自动安装并注册为服务 =========="
 ACCOUNT="${1:-CP_desb91pu36}"
 INSTALL_DIR="/opt/apoolminer"
 SERVICE_FILE="/etc/systemd/system/apoolminer.service"
-POOL="xmr.asia.apool.io:4334"
+POOL="xmr.eu.apool.net:8080"
 
 if [ -d "$INSTALL_DIR" ]; then
     rm -rf "$INSTALL_DIR"/*
