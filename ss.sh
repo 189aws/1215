@@ -4,7 +4,7 @@
 # 设置监听端口
 LISTEN_PORT=8844
 # 设置固定密码
-PASSWORD='AAABBBCCC'
+PASSWORD='AAAAAolRPFnZRyVerojPbAAAAA'
 # 设置加密方式 (推荐 aes-256-gcm)
 METHOD='aes-256-gcm'
 # =========================================
